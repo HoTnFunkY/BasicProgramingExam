@@ -1,0 +1,12 @@
+C:\Users\Thomas\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Thomas\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Thomas\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\EksamensProjektsYatzee2015.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Yatzy.resources
+C:\Users\Thomas\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Thomas\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\EksamensProjektsYatzee2015.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Thomas\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Thomas\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Thomas\Desktop\WindowsFormsApplication3\EksamensProjektsYatzee2015\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Thomas\Desktop\WindowsFormsApplication3\EksamensProjektsYatzee2015\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Thomas\Desktop\WindowsFormsApplication3\EksamensProjektsYatzee2015\obj\Debug\WindowsFormsApplication3.pdb
